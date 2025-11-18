@@ -51,12 +51,12 @@
 #KW-P4-div4{background-color:#8FABD4;
 		border-radius: 0px 15px 15px 0px }
 
-#KW-P4-img1{height:400px;
+.KW-img1{height:400px;
 		width:100%}
 		
 
 
-#KW-P4-img2{height:100%;
+.KW-img2{height:100%;
 			width:100%}
 body{background-image:url("img/backg.jpg")}
 
