@@ -21,9 +21,9 @@
   font-weight: 400;
   font-style: normal;
 }
-*/karls css start*/
+/*karls css start*/
 
-h3{text-align: center}
+.h3-KW{text-align: center}
 
 @media screen and (min-width: 461px) and (max-width: 1920px) {
 #nav{background-color:#EFECE3}
@@ -101,7 +101,7 @@ body{background-image:url("img/backg.jpg")}
 
 }
 
-*/karls css end*/
+/*karls css end*/ 
 
 
 
