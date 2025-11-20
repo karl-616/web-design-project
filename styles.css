@@ -41,6 +41,7 @@
 		text-decoration: underline;
 		}
 		
+		
 @media screen and (min-width: 461px) and (max-width: 1920px) {
 #nav{background-color:#EFECE3}
 	
@@ -97,9 +98,9 @@
 
 		
 
-
+}
 @media screen and (min-width: 360px) and (max-width: 460px) {
-	#nav{background-color:#EFECE3}
+#nav{background-color:#EFECE3}
 	
 #rowoneKW{border: 10px solid #4A70A9 ;
 		border-radius: 25px}
@@ -108,29 +109,48 @@
 		border-radius: 25px}
 
 #KW-P4-div1{background-color:#8FABD4 ;
-		border-radius: 15px 15px 0px 0px
+		border-radius: 15px 0px 0px 15px
 			}
 
 #KW-P4-div2{background-color:#8FABD4;
-		border-radius: 0px 0px 15px 15px }
+		border-radius: 0px 15px 15px 0px }
 
 #KW-P4-div3{background-color:#8FABD4;
-			border-radius: 15px 15px 0px 0px}
+			border-radius: 15px 0px 0px 15px}
 
 #KW-P4-div4{background-color:#8FABD4;
-		border-radius: 0px 0px 15px 15px }
+		border-radius: 0px 15px 15px 0px }
 
 #KW-P4-img1{height:400px;
 		width:100%}
 		
-#KW-p1-img1 {float: left;
-	height:200px;
-		width:100px}
+#KW-P1-img1 {float: left;
+			height:300px;
+			width:300px;
+			margin:15px}
 		
 
 #KW-P4-img2{height:400px;
 			width:100%}
+			
+.div-1-KW{background-color:#8FABD4;
+		border-radius: 15px;
+}
 
+.row-1-KW{border: 10px solid #4A70A9 ;
+		border-radius: 25px}
+		
+.div-2-KW{background-color:#8FABD4;
+		border-radius: 15px;
+}
+
+.row-2-KW{border: 10px solid #4A70A9 ;
+		border-radius: 25px}
+		
+#KW-P1-img2 {float: right;
+			height:300px;
+			width:300px;
+			margin:15px}
 
 }
 
