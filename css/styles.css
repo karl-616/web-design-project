@@ -27,14 +27,14 @@
 
 .h3-KW{text-align: center;
 		background-color:#4A70A9;
-		width:250px;
+		width:auto;
 		margin-left: auto;
 		margin-right:auto;
 		border: 10px solid #4A70A9 ;
 		border-radius: 25px;
 		text-decoration: underline}
 
-.body-KW{background-image:url("../img/backg.jpg");
+#body-KW-1{background-image:url("../img/Reginald's Tower.jpg");
 		background-repeat: no-repeat;
 		background-attachment:fixed;
 		background-size:cover;
@@ -42,50 +42,63 @@
 		}
 .h1-kw{text-align: center;
 		background-color:#8FABD4;
-		width:250px;
+		width:400px;
 		margin-left: auto;
 		margin-right:auto;
 		border: 10px solid #4A70A9 ;
 		border-radius: 25px;
 		text-decoration: underline;
 		}
+
+#body-KW-2{background-image:url("../img/Alcudia Streets.jpg");
+		background-repeat: no-repeat;
+		background-attachment:fixed;
+		background-size:cover;
+		background-position-y:center;
+		}
 		
 		
 
 .navbar{background-color: #EFECE3}
 	
-#rowoneKW{border: 10px solid #4A70A9 ;
-		border-radius: 25px}
+
  
-#row2KW{border: 10px solid #4A70A9 ;
-		border-radius: 25px}
+
 
 #KW-P4-div1{background-color:#8FABD4 ;
-		border-radius: 15px
-			}
+		border-radius: 15px;
+		border: 10px solid #4A70A9;
+		margin:15px	}
+
+#KW-P4-div{}
 
 
 
 
-
-#KW-P4-div4{background-color:#8FABD4;
-		border-radius: 15px }
+#KW-P4-div4{background-color:#8FABD4 ;
+		border-radius: 15px;
+		border: 10px solid #4A70A9;
+		margin:15px }
 
 #KW-P4-img1{float: right;
-			height:400px;
-			width:350px;
-			margin:15px}
+			height:100%;
+			width:100%;
+			border-radius: 15px;
+		border: 10px solid #4A70A9
+			}
 		
 #KW-P1-img1 {float: left;
 			height:400px;
 			width:350px;
-			margin:15px}
+			margin:15px;
+			}
 		
 
-#KW-P4-img2{float:left;
-			height:400px;
-			width:350px;
-			margin:15px}
+#KW-P4-img2{float: right;
+			height:100%;
+			width:100%;
+			border-radius: 15px;
+		border: 10px solid #4A70A9}
 			
 .div-1-KW{background-color:#8FABD4;
 		border-radius: 15px;
